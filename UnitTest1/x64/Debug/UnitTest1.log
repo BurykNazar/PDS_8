@@ -1,0 +1,13 @@
+﻿  UnitTest1.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_8\Lab8\Source.cpp(88,31): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_8\Lab8\Source.cpp(112,37): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+     Creating library C:\Users\ahieo\OneDrive\Робочий ст?л\ПК-51\ПДС\Бурик\Лаб_8\Lab8\x64\Debug\UnitTest1.lib and object C:\Users\ahieo\OneDrive\Робочий ст?л\ПК-51\ПДС\Бурик\Лаб_8\Lab8\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_8\Lab8\x64\Debug\UnitTest1.dll
